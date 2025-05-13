@@ -1,0 +1,46 @@
+{
+    "attribute": {
+        "additional": "",
+        "age": "",
+        "birth": "",
+        "constellation": "",
+        "contact": "",
+        "gender": "",
+        "goal": "",
+        "hobby": "\u53d1\u5446",
+        "job": "",
+        "name": "",
+        "position": "",
+        "voice": "",
+        "zodiac": ""
+    },
+    "interact": {
+        "QnA": "",
+        "maxInteractTime": 15,
+        "perception": {
+            "chat": 0,
+            "follow": 0,
+            "gift": 0,
+            "indifferent": 0,
+            "join": 0
+        },
+        "playSound": false,
+        "visualization": false
+    },
+    "items": [],
+    "source": {
+        "automatic_player_status": true,
+        "automatic_player_url": "",
+        "liveRoom": {
+            "enabled": true,
+            "url": ""
+        },
+        "record": {
+            "device": "",
+            "enabled": true
+        },
+        "wake_word": "",
+        "wake_word_enabled": true,
+        "wake_word_type": "common"
+    }
+}
